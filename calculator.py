@@ -7,7 +7,7 @@ def create_window(theme):
 	layout = [
 		[sg.Text(
 			'', 
-			font = 'Franklin 26', 
+			font = 'Franklin 26',
 			justification = 'right', 
 			expand_x = True, 
 			pad = (10,20),
